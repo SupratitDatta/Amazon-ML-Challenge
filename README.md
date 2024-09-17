@@ -64,3 +64,9 @@ This code is present in `app.ipynb` file.
 
 ## Conclusion:
 This OCR-based approach effectively extracts entity-specific values from product images, enabling automated data processing. The pipeline, using EasyOCR and entity-specific unit filtering, is scalable across large datasets. However, with an F1 score of 0.44, there's room for improvement. Enhancing text post-processing and error handling could boost robustness, especially for low-quality images or complex layouts. The combination of OCR and regex is reliable, but refining these methods could further improve accuracy and performance.
+
+## Final Accuracy and Ranking:
+
+
+![amazon](https://github.com/user-attachments/assets/ce569b29-6c4e-45d6-8801-85d229a108fe)
+
